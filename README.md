@@ -11,7 +11,6 @@
   <img align="center" alt="Felipe-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Felipe-Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"">
   <img align="center" alt="Felipe-Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://www.gifcen.com/dragon-ball-z-gif-4-3/">
 </div>
   
   ##
@@ -25,3 +24,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+“Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo. ” – Martin Luther King
